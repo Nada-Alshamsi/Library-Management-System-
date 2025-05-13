@@ -1,2 +1,2 @@
-In an era where information is readily accessible and the demand for efficient resource management is paramount, the need for a robust Library Management System (LMS) has never been more critical. 
+In an Aera where information is readily accessible and the demand for efficient resource management is paramount, the need for a robust Library Management System (LMS) has never been more critical. 
 Our project aims to design a Library Management System that is user-friendly and GUI-based to ensure resource management processes become simple for library work, thus interfacing the user and improving operational efficiency.
